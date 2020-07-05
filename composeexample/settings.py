@@ -140,5 +140,5 @@ MEDIA_URL = '/media/'
 #EMAIL_USE_TLS = True
 #EMAIL_HOST = 'smtp.gmail.com'
 #EMAIL_HOST_USER = 'omikron.ednevnik@gmail.com'
-#EMAIL_HOST_PASSWORD = 'omikron123'
+#EMAIL_HOST_PASSWORD = ''
 #EMAIL_PORT = 587
